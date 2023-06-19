@@ -1,3 +1,2 @@
-# Marlon Ocampo
-😎🔥❗
+# Hola, soy Marlon Ocampo!
 
