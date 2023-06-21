@@ -1,6 +1,6 @@
-# <center>👋🏻 Hola, soy Marlon Ocampo! 😎 </center>
+#👋🏻 Hola, soy Marlon Ocampo! 😎
 
-#### <center> 🤩¡Me dedico al **Desarrollo de Aplicaciones** y a aprender nuevas cosas🧑🏻‍💻</center>
+#### 🤩¡Me dedico al **Desarrollo de Aplicaciones** y a aprender nuevas cosas🧑🏻‍💻
 
 ##### 😋Algunas skills:
 
