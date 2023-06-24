@@ -4,7 +4,7 @@
 
 #### 🤩¡Me dedico al **Desarrollo de Aplicaciones** y a aprender nuevas cosas🧑🏻‍💻
 
-### Mis Habiliddes: 😋
+### Mis Habiliddes 😋
 
 <p align="center">
     <img style="margin: 10px" align="center" src="https://raw.githubusercontent.com/marlonocampos/MarlonOcampo/7cec0b29d09e4306e26fd421800e56d5dea361c5/src/assets/Js.svg" alt="JavaScript" height="28px" width="28px" />
@@ -24,7 +24,7 @@
 
 ### Proximamente: 🎊 "marlonocampo.com" 🥳
 
-#### Contactame:📨 [info@marlonocampo.com](info@marlonocampo.com)
+#### Contactame 📨  [info@marlonocampo.com](mailto:info@marlonocampo.com)
 
 ###### "Esfuerzo y Valentía" J1.9
 #### 
