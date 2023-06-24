@@ -1,8 +1,12 @@
 # 👋🏻 Hola, soy Marlon Ocampo! 😎
 
+
+
 #### 🤩¡Me dedico al **Desarrollo de Aplicaciones** y a aprender nuevas cosas🧑🏻‍💻
 
-### 😋Algunas skills:
+
+
+### Algunas skills: 😋
 
 <p align="center">
     <img style="margin: 10px" align="center" src="https://raw.githubusercontent.com/marlonocampos/MarlonOcampo/7cec0b29d09e4306e26fd421800e56d5dea361c5/src/assets/Js.svg" alt="JavaScript" height="28px" width="28px" />
