@@ -13,7 +13,7 @@
     <img style="margin: 10px" align="center" src="https://raw.githubusercontent.com/marlonocampos/MarlonOcampo/7cec0b29d09e4306e26fd421800e56d5dea361c5/src/assets/mui.svg" alt="Mui" height="35px" width="35px" />
     <img style="margin: 10px" align="center" src="https://raw.githubusercontent.com/marlonocampos/MarlonOcampo/7cec0b29d09e4306e26fd421800e56d5dea361c5/src/assets/.net.svg" alt="Mui" height="35px" width="35px" />
     <img style="margin: 10px" align="center" src="https://raw.githubusercontent.com/marlonocampos/MarlonOcampo/7cec0b29d09e4306e26fd421800e56d5dea361c5/src/assets/Group%205.svg" alt="Mui" height="35px" width="35px" />
-</p> marlon
+</p>
 
 
 ### Mi Aprendije 🎯💡
