@@ -4,7 +4,7 @@
 
 ### Mis Habiliddes 💡
 #### Frontend 👨🏻‍🎨
-![JavaScript](https://raw.githubusercontent.com/marlonocampos/MarlonOcampo/7cec0b29d09e4306e26fd421800e56d5dea361c5/src/assets/Js.svg "Lenguaje de Programación JavaScript"){width='35px' height='35px'}
+![JavaScript](https://raw.githubusercontent.com/marlonocampos/MarlonOcampo/7cec0b29d09e4306e26fd421800e56d5dea361c5/src/assets/Js.svg "Lenguaje de Programación JavaScript"){width=40%}
 
 #### Backend ⚙️
 
