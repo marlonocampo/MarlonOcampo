@@ -4,19 +4,12 @@
 
 ### Mis Habiliddes 💡
 #### Frontend 👨🏻‍🎨
-![JavaScript](https://raw.githubusercontent.com/marlonocampos/MarlonOcampo/7cec0b29d09e4306e26fd421800e56d5dea361c5/src/assets/Js.svg "Lenguaje de Programación JavaScript"){width=40%}
+![JavaScript](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/9903fbcbdbd16366dda0c046d10354bb8013ad10/src/assets/icons/js.svg "Lenguaje de Programación JavaScript")
+![React](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/9903fbcbdbd16366dda0c046d10354bb8013ad10/src/assets/icons/react.svg "Librería de JavaScript para interfaz de usuario")![TailwindCss](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/9903fbcbdbd16366dda0c046d10354bb8013ad10/src/assets/icons/tailwind.svg "Librería de Css")
+
 
 #### Backend ⚙️
 
-
-
-
-<img style="margin: 10px" align="center" src="https://raw.githubusercontent.com/marlonocampos/MarlonOcampo/7cec0b29d09e4306e26fd421800e56d5dea361c5/src/assets/Js.svg" alt="JavaScript" height="35px" width="35px" />
-<img style="margin: 10px" align="center" src="https://raw.githubusercontent.com/marlonocampos/MarlonOcampo/7302f6d07908915335f1c296f38664842addb0bc/src/images/react.svg" alt="React" height="35px" width="35px" />
-<img style="margin: 10px" align="center" src="https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/8d793453ddb62e9875e6c9c5900ed8a9094b47f8/src/assets/git.svg" alt="React" height="35px" width="35px" />
-<img style="margin: 10px" align="center" src="https://raw.githubusercontent.com/marlonocampos/MarlonOcampo/7cec0b29d09e4306e26fd421800e56d5dea361c5/src/assets/mui.svg" alt="Mui" height="35px" width="35px" />
-<img style="margin: 10px" align="center" src="https://raw.githubusercontent.com/marlonocampos/MarlonOcampo/7cec0b29d09e4306e26fd421800e56d5dea361c5/src/assets/.net.svg" alt="Mui" height="35px" width="35px" />
-<img style="margin: 10px" align="center" src="https://raw.githubusercontent.com/marlonocampos/MarlonOcampo/7cec0b29d09e4306e26fd421800e56d5dea361c5/src/assets/Group%205.svg" alt="Mui" height="35px" width="35px" />
 
 
 ### Mi Aprendije 🎯💡
