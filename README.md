@@ -11,7 +11,8 @@
 
 #### Backend ⚙️
 ![ASP .NET](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/40b6d52a53777bc8d1273bef98f16e41a670087f/src/assets/icons/.net.svg "Framework para el desarrollo de API en lenguaje C#")
-![ASP .NET](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/40b6d52a53777bc8d1273bef98f16e41a670087f/src/assets/icons/Laravel.svg "Framework para el desarrollo de API en lenguaje PHP")
+![Laravel](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/40b6d52a53777bc8d1273bef98f16e41a670087f/src/assets/icons/Laravel.svg "Framework para el desarrollo de API en lenguaje PHP")
+![SQL](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/403b3205010202b27e2fa265c34215909d1ed60e/src/assets/icons/sql.svg "lenguaje de consultas de bases de datos relacionales")
 
 ### Mi Aprendije 🎯💡
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
