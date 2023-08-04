@@ -7,7 +7,6 @@
 ![JavaScript](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/9903fbcbdbd16366dda0c046d10354bb8013ad10/src/assets/icons/js.svg "Lenguaje de Programación JavaScript")
 ![React](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/9903fbcbdbd16366dda0c046d10354bb8013ad10/src/assets/icons/react.svg "Librería de JavaScript para interfaz de usuario")
 ![TailwindCss](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/9903fbcbdbd16366dda0c046d10354bb8013ad10/src/assets/icons/tailwind.svg "Librería de Css")
-![Mui](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/40b6d52a53777bc8d1273bef98f16e41a670087f/src/assets/icons/mui.svg "Librería de Css")
 ![Ui/Ux](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/619fa953d55d65ee15baa53cba487e539d0492ca/src/assets/icons/uiux.svg "Diseño y Experiencia de usuario")
 
 ### Backend ⚙️
