@@ -8,6 +8,7 @@
 ![React](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/9903fbcbdbd16366dda0c046d10354bb8013ad10/src/assets/icons/react.svg "Librería de JavaScript para interfaz de usuario")
 ![TailwindCss](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/9903fbcbdbd16366dda0c046d10354bb8013ad10/src/assets/icons/tailwind.svg "Librería de Css")
 ![Ui/Ux](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/619fa953d55d65ee15baa53cba487e539d0492ca/src/assets/icons/uiux.svg "Diseño y Experiencia de usuario")
+![Chrome Lighthose](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/3d4f93544fda5e85f09eed83d97a63578066ed00/src/assets/icons/ligthouse.svg "Análisis y optimización con la herramienta Chrome Lighthouse")
 
 ### Backend ⚙️
 ![ASP .NET](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/53854cd72e1d2824000975785286af97b41c4159/src/assets/icons/net.svg "Framework para el desarrollo de API en lenguaje C#")
