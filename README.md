@@ -6,7 +6,7 @@
 ### Frontend 👨🏻‍🎨
 ![JavaScript](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/9903fbcbdbd16366dda0c046d10354bb8013ad10/src/assets/icons/js.svg "Lenguaje de Programación JavaScript")
 ![React](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/9903fbcbdbd16366dda0c046d10354bb8013ad10/src/assets/icons/react.svg "Librería de JavaScript para interfaz de usuario")
-![TailwindCss](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/9903fbcbdbd16366dda0c046d10354bb8013ad10/src/assets/icons/tailwind.svg "Librería de Css")
+![TailwindCss](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/9903fbcbdbd16366dda0c046d10354bb8013ad10/src/assets/icons/tailwind.svg "Desarrollo de Interfaces profesionales con TailwindCss")
 ![Ui/Ux](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/f5f988c9ab08c3548bc9ab0bb95bc11baa85d6b0/src/assets/icons/uiux.svg "Diseño y Experiencia de usuario")
 ![Chrome Lighthose](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/f5f988c9ab08c3548bc9ab0bb95bc11baa85d6b0/src/assets/icons/ligthouse.svg "Análisis y optimización con la herramienta Chrome Lighthouse")
 
