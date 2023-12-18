@@ -2,7 +2,7 @@
 
 ¡Me dedico al **Desarrollo de Aplicaciones** y a aprender nuevas cosas 🧑🏻‍💻
 
-## Mis Habilidades 💡
+## 💡 Mis Habilidades 
 **Frontend** 👨🏻‍🎨
 
 ![JavaScript](https://raw.githubusercontent.com/marlonocampo/MarlonOcampo/9903fbcbdbd16366dda0c046d10354bb8013ad10/src/assets/icons/js.svg "Lenguaje de Programación JavaScript")
@@ -36,7 +36,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Proximamente: 🎊 "marlonocampo.com" 🥳
+### Visita mi web: ⚡ marlonocampo.com
 
 **Contactame** 📨  [info@marlonocampo.com](mailto:info@marlonocampo.com)
 
